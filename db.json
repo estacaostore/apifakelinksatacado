@@ -1,0 +1,58 @@
+{
+  "linksatacado": [
+    {
+      "id": 1,
+      "title": "Bom Retiro São Paulo",
+      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=5511944579998"
+    },
+    {
+      "id": 2,
+      "title": "Vendedora Lucy",
+      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=554599199258"
+    },
+    {
+      "id": 3,      
+      "title": "Vendedora Flaviane",
+      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=554598144534"
+    },
+    {
+      "id": 4,      
+      "title": "Vendedora Jessyca",
+      "url": "https://wa.me/message/6AONTKDHIWQSA1"
+    },
+    {
+      "id": 5,
+      "title": "Vendedora Pamela",
+      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=554598257716"
+    },
+    {
+      "id": 6,
+      "title": "Compras no Varejo",
+      "url": "https://www.estacaodamodastore.com.br"
+    },
+    {
+      "id": 7,
+      "title": "Cadastro para revenda",
+      "url": "https://www.estacaodamodastore.com.br/vendas-por-atacado"
+    }
+  ],
+  "perfil": [
+    {
+      "id": 1,
+      "title": "@alinemezzaribrand",
+      "urlavatar": "https://estacaodamodastore.vteximg.com.br/arquivos/Aline-Mezzari-Brand-New.jpg"
+    },
+    {
+      "id": 2,
+      "title": "@estacaostore",
+      "urlavatar": "https://estacaodamodastore.vteximg.com.br/arquivos/logo-estacao-store.jpg"
+    }
+  ],
+  "dev": [
+    {
+      "id": 1,
+      "title": "By: Equipe Estação Store",
+      "url": "https://www.estacaodamodastore.com.br/"
+    }
+  ]
+}
