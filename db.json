@@ -27,6 +27,11 @@
     },
     {
       "id": 6,
+      "title": "Vendedora Ivone",
+      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=5511981580935"
+    },
+    {
+      "id": 7,
       "title": "Compras no Varejo",
       "url": "https://www.estacaodamodastore.com.br"
     }
