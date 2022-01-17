@@ -12,6 +12,16 @@
     },
     {
       "id": 3,
+      "title": "Keteryne (São Paulo - Bom Retiro)",
+      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=5545910599368"
+    },
+    {
+      "id": 4,
+      "title": "Ivone (São Paulo - Bom Retiro)",
+      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=5545920052394"
+    },
+    {
+      "id": 5,
       "title": "Compras no Varejo",
       "url": "https://www.estacaodamodastore.com.br"
     }
